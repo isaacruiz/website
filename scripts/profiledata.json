@@ -1,0 +1,50 @@
+{
+    "education": {
+
+    },
+    "workHistory": [
+        {
+            "title":"Undergraduate Teaching Assistant",
+            "employer":"The University of Texas Rio Grande Valley",
+            "location":"Edinburg, TX",
+            "startDate":"August 2018",
+            "endDate":"December 2018",
+            "description": "Assisted with an introductory computer science lab. Helped students understand some of the fundamental concepts of developing programs in the practical lab. Position also entailed meeting with students in office hours to help them understand the lecture and homework outside of class if they were unclear on the subject matter."
+        },
+        {
+            "title":"Undergraduate Research Assistant",
+            "employer":"The University of Texas at Arlington",
+            "location":"Arlington, TX",
+            "startDate":"June 2018",
+            "endDate":"August 2018",
+            "description": "Accepted for position as part of a summer REU program hosted at The University of Texas at Arlington. The goal of the research project is to develop a prototype facial expression recognition software experimenting various machine learning techniques and data selection methods. This software will be applied to a prototype wearable device that can be worn by visually impaired or autistic individuals to aid in identifying the emotions of the people they talk and interact with."
+        },
+        {
+            "title":"Undergraduate Research Assistant",
+            "employer":"The University of Texas Rio Grande Valley",
+            "location":"Edinburg, TX",
+            "startDate":"June 2017",
+            "endDate":"June 2018",
+            "description": "Performed research tasks under a professor of the computer science department. Research areas included computational geometry problems such as polyomino tilings of the plane. Developed a twitter bot in node.js that would tweet images of polyominos at regular intervals and that would also take user requests for polyominos. Also worked on the C++ implementation of a linear time algorithm to determine if a boundary word that describes a polyomino tiles the plane."
+        },
+        {
+            "title":"Laboratory Technician",
+            "employer":"Galvotec Alloys, Inc",
+            "location":"McAllen, TX",
+            "startDate":"June 2013",
+            "endDate":"August 2016",
+            "description": "Performed electrochemical tests using salt water baths on sacrificial anode samples of the production line. Also performed chemical analysis tests on samples using an optical emission spectrometer to analyze anode elemental composition to ensure that they met customer specifications. Prepared chemical analysis reports of test results for customers and also performed experimental testing on samples for the internal research and development department."
+        },
+        {
+            "title":"Abstractor",
+            "employer":"Land Investigation Services",
+            "location":"McAllen, TX",
+            "startDate":"June 2010",
+            "endDate":"June 2013",
+            "description": "Researched the title history of parcels of land for Land Investigation Services' clients. This involved researching conveyances and encumbrances (eg. deeds, liens, and easements) on a property. Prepared reports for clients detailing the ownership history of properties. Used CAD programs such as AutoCad to draw property lines described via metes and bounds descriptions in warranty deeds."
+        }
+    ],
+    "projects": [
+
+    ]
+}
